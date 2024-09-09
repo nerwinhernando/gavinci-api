@@ -43,3 +43,6 @@ end
 gem "devise", "~> 4.9"
 # https://github.com/lynndylanhurley/devise_token_auth/issues/1608
 gem "devise_token_auth", ">= 1.2.0", git: "https://github.com/lynndylanhurley/devise_token_auth"
+
+# testing this token gem
+gem "devise-api", "~> 0.1.3"
